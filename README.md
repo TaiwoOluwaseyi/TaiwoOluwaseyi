@@ -1,6 +1,6 @@
 # Hello There 👋
 
-My name is Taiwo Oluwaseyi Mabel and I'm a software developer from Lagos, Nigeria 🇳🇬. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Taiwo Oluwaseyi Mabel and I'm a software developer from Lagos, Nigeria 🇳🇬. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Tutorials
 
@@ -36,13 +36,13 @@ Apart from coding, I also maintain a dev.to page - you can find my articles on [
 <a href="https://api.whatsapp.com/send?phone=2349037704058&text=Hello%20Oluwaseyi,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
-<a href="https://www.twitter.com/iam_olayemii" alt="Follow Me on Twitter"> 
+<a href="https://twitter.com/Oluwaseyii_t" alt="Follow Me on Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/olayemi-garuba-424342144" alt="Connect on LinkedIn"> 
+<a href="https://www.linkedin.com/in/oluwaseyi-mabel-taiwo/" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:olayemiiofficial@gmail.com">
+<a href="mailto:seyitaiwo21@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
@@ -67,8 +67,7 @@ Apart from coding, I also maintain a dev.to page - you can find my articles on [
 [3]: https://www.linkedin.com/in/oluwaseyi-mabel-taiwo/
 
 
-
-\> You are watching a master at work._
+ You are watching a master at work._
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
