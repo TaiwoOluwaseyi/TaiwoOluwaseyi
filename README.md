@@ -14,21 +14,22 @@ Apart from coding, I also maintain a dev.to page - you can find my articles on [
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/olayemii/olayemii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olayemii&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/TaiwoOluwaseyi/TaiwoOluwaseyi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiwoOluwaseyi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/olayemii/olayemii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olayemii&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Olayemii's GitHub Stats" />
-</a>
-
-<a href="https://github.com/olayemii/flutter-ui-kits">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olayemii&repo=flutter-ui-kits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/TaiwoOluwaseyi/TaiwoOluwaseyi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TaiwoOluwaseyi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TaiwoOluwaseyi's GitHub Stats" />
 </a>
 
+<!-- Taiwo Uncomment and Change when you are ready -->
+<!-- <a href="https://github.com/TaiwoOluwaseyi/flutter-ui-kits">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaiwoOluwaseyi&repo=flutter-ui-kits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<a href="https://github.com/olayemii//pangaea-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=olayemii&repo=pangaea-frontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
+
+<a href="https://github.com/TaiwoOluwaseyi//pangaea-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TaiwoOluwaseyi&repo=pangaea-frontend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   -->
 
 ## 🤝 Contact Me
 
@@ -76,4 +77,3 @@ Apart from coding, I also maintain a dev.to page - you can find my articles on [
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
