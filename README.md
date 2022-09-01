@@ -4,7 +4,7 @@ My name is Taiwo Oluwaseyi Mabel and I'm a software developer from Lagos, Nigeri
 
 ## &#x270d; Blog & Tutorials
 
-Apart from coding, I also maintain a dev.to page - you can find my articles on [Dev.to](https://dev.to/oluwaseyii_t).
+Besides coding, I also curate and create articles and write ups. Take a look at my dev.to page [Dev.to](https://dev.to/oluwaseyii_t).
 
 ## 🔧 Technologies & Tools
 
